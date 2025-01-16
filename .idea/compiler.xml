@@ -9,7 +9,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="2-9-desafio-variaveis-e-operadores-aritmeticos" target="21" />
+      <module name="2-09-desafio-variaveis-e-operadores-aritmeticos" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>
